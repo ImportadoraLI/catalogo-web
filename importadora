@@ -1,3 +1,4 @@
+cd ruta/del/proyecto/catalogo-web
 git init
 git add .
 git commit -m "catalogo-web"
