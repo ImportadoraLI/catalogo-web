@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "catalogo-web"
+git branch -M main
+git remote add origin https://github.com/ImportadoraLI/catalogo-web.git
+git push -u origin main
