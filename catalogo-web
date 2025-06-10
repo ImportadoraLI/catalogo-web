@@ -1,0 +1,7 @@
+cd ruta/del/proyecto/catalogo-web
+git init
+git add .
+git commit -m "Catálogo web de Importadora L_I"
+git branch -M main
+git remote add origin https://github.com/ImportadoraLI/catalogo-web.git
+git push -u origin main
